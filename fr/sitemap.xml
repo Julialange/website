@@ -37,12 +37,6 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.coaching-julia-lange.ch/hypnobirthing.html</loc>
-        <lastmod>2014-09-08</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
         <loc>http://www.coaching-julia-lange.ch/theoretischer-hintergrund-techniken.html</loc>
         <lastmod>2014-09-08</lastmod>
         <changefreq>weekly</changefreq>
@@ -61,7 +55,7 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.coaching-julia-lange.ch/Cours.html</loc>
+        <loc>http://www.coaching-julia-lange.ch/cours.html</loc>
         <lastmod>2014-09-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
@@ -73,7 +67,7 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.coaching-julia-lange.ch/Contacte.html</loc>
+        <loc>http://www.coaching-julia-lange.ch/contacte.html</loc>
         <lastmod>2014-09-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
@@ -92,12 +86,6 @@
     </url>
     <url>
         <loc>http://www.coaching-julia-lange.ch/autogenes-training.html</loc>
-        <lastmod>2014-09-08</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>http://www.coaching-julia-lange.ch/hypnobirthing-01.html</loc>
         <lastmod>2014-09-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
@@ -133,7 +121,7 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://www.coaching-julia-lange.ch/Désir d'enfant.html</loc>
+        <loc>http://www.coaching-julia-lange.ch/kinderwunsch.html</loc>
         <lastmod>2014-09-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
