@@ -8,6 +8,8 @@
   --shadow-bottom: 0 8px 8px -8px #212121;
 }
 
+/* GENERAL */
+
 * {
   box-sizing: border-box;
 }
@@ -24,6 +26,14 @@
   max-width: 1040px;
   margin: 0 auto;
 }
+
+main {
+  background-color: var(--green);
+  color: var(--text-on-green);
+  padding: 20px;
+}
+
+/* NAVBAR */
 
 .navbar {
   background-color: var(--orange);
@@ -91,4 +101,45 @@
 .navbar .navitem:hover a:hover,
 .navbar a:hover {
   color: var(--orange);
+}
+
+/* CONTENT */
+
+.image {
+  width: 100%;
+  display: block;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: auto 25%;
+  grid-template-rows: auto;
+  grid-template-areas: "main sidebar";
+  grid-gap: 20px;
+}
+
+.layout-main {
+  grid-area: main;
+}
+
+.layout-aside {
+  grid-area: sidebar;
+}
+
+/* HEADERS */
+
+h1 {
+  margin: 20px 0;
+  padding: 0 0 15px 0;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: unset;
+  text-transform: unset;
+  color: #FA9006;
+  background-image: unset;
+  border-bottom: 1px solid currentColor;
+}
+
+h1:first-child {
+  margin-top: 0;
 }
